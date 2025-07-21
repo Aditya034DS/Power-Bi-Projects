@@ -65,7 +65,7 @@ This project also reflects my ability to:
 I'm actively looking for opportunities where I can apply my data analysis and dashboarding skills to solve real-world business problems.
 
 📧 adityateotia2003@gmail.com  
-💼 [LinkedIn](https://www.linkedin.com/in/your-link)  
+💼 [LinkedIn](https://www.linkedin.com/in/adityateotia12/)  
 📂 [Other Power BI Projects](https://github.com/Aditya034DS/Power-Bi-Projects)
 
 ---
